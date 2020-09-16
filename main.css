@@ -32,7 +32,7 @@ body {
 
 .js-weather {
   transition: opacity 0.3s ease-in;
-  font-size: 15px;
+  font-size: 20px;
   position: absolute;
   top: 20px;
   right: 20px;
